@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stargazer6481
 -Mainly Plays: Rec Room and Gorilla Tag
 -I’m a Rec Room Enthusiast/Builder
--I’m releasing a game on Meta’s “AppLab” soon!
+-I lke unreal engine c:
 -Likes: Pokémon, VR and Game Development
 -How to reach me YA DONT!
 
