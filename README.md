@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Stargazer6481
+- 👋 Hi, I’m Stargazer, or Star
 -Mainly Plays: Rec Room and Gorilla Tag
--I’m a Rec Room Enthusiast/Builder
--I lke unreal engine c:
+-Has 450+ hours in Rec Room (quit)
+-I develop in Unity
 -Likes: Pokémon, VR and Game Development
--How to reach me YA DONT!
+-How to reach me: Discord: @stargazervr YouTube: @StargazerVR
 
 <!---
 Stargazer6481/Stargazer6481 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
