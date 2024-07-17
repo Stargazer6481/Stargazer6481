@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stargazer, or Star
 -Mainly Plays: Rec Room and Gorilla Tag
--Has 450+ hours in Rec Room (quit)
+-Has 1000+ hours in Rec Room (quit)
 -I develop in Unity
 -Likes: Pokémon, VR and Game Development
 -How to reach me: Discord: @stargazervr YouTube: @StargazerVR
