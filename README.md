@@ -1,9 +1,14 @@
 womp womp, give me your moolah please.
 
+
 -i like llms through ollama
+
 -i know a decent amount of bash
+
 -linux drives me crazy but i love it for proxmox
+
 -i still use windows on my pc
+
 -goated
 
 <!---
